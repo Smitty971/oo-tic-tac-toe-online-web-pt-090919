@@ -138,3 +138,6 @@ end
 end
 
 end
+
+display_board(board)
+play(board)
