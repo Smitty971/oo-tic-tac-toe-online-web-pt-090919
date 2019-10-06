@@ -137,6 +137,6 @@ end
     puts "Cat's Game!"
   end
 end
-play(board)
-end
 
+end
+play(board)
