@@ -131,5 +131,9 @@ end
   end
   
   if won?
-    puts 
+    puts "Congratulations #{winner}!"
+  elsif draw 
+    puts "Cat's Game!"
+  end
+end
 end
