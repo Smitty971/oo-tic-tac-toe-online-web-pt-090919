@@ -139,4 +139,3 @@ end
 end
 
 end
-play(board)
