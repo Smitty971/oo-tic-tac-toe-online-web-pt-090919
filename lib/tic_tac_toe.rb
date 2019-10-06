@@ -130,4 +130,6 @@ end
     turn
   end
   
+  if won?
+    puts 
 end
